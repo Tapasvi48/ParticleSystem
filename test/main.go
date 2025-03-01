@@ -1,9 +1,10 @@
-package particle
+package main
 
 import (
 	"fmt"
 	"os"
 	"os/exec"
+	"particle"
 	"time"
 )
 
@@ -18,7 +19,7 @@ func clearScreen() {
 }
 func main() {
 	// Create coffee with parameters (possibly temperature and steam intensity)
-	coffee := NewCoffe(61, 8)
+	coffee := particle.NewCoffe(61, 8)
 	timer := time.NewTicker(100 * time.Millisecond)
 
 	// Store the ASCII art of the coffee mug
