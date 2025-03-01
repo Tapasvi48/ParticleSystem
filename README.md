@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/4dade3fd-b3a2-41dd-8837-1fd2b54da62a
+
 # 🚀 Particle System in Golang
 
 A lightweight and efficient **particle system** built using **Golang**
@@ -18,5 +20,9 @@ cd test
 go run .
 
 ## 📸 Demo
-https://github.com/user-attachments/assets/30f49b81-dab9-472f-ab52-3178fcd4a8d8
+
+
+[Watch the demo video](Uploading Screen Recording 2025-03-01 at 2.29.15 PM.mov…)
+
+
 
