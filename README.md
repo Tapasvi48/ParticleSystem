@@ -1,4 +1,4 @@
-
+https://github.com/user-attachments/assets/4dade3fd-b3a2-41dd-8837-1fd2b54da62a
 
 
 # 🚀 Particle System in Golang
@@ -21,7 +21,7 @@ go run .
 
 ## 📸 Demo
 
-https://github.com/user-attachments/assets/4dade3fd-b3a2-41dd-8837-1fd2b54da62a
+
 
 
 
