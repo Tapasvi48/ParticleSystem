@@ -19,7 +19,7 @@ cd ParticleSystem
 cd test
 go run .
 
-## 📸 Demo
+
 
 
 
